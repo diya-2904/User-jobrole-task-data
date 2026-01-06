@@ -184,10 +184,11 @@ Step 4.3: Summarize Insights for Stakeholders
 ---
 ## How to Run This Project
 - pip install pandas streamlit scikit-learn
-- python clean_data.py
-- python eda.py
-- python data_export.py
-- streamlit run dashboard.py
+- Run scripts in order:
+ * python clean_data.py
+ * python eda.py
+ * python data_export.py
+ * streamlit run dashboard.py
 
 
 
